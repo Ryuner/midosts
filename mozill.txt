@@ -1,0 +1,15 @@
+coinmarketcap.com
+www.coinmarketcap.com
+getpocket.cdn.mozilla.net
+img-getpocket.cdn.mozilla.net
+ocsp.pki.goog
+example.org
+www.dnsleaktest.com
+safebrowsing.googleapis.com
+location.services.mozilla.com
+mozilla.cloudflare-dns.com
+push.services.mozilla.com
+firefox-settings-attachments.cdn.mozilla.net
+detectportal.firefox.com
+spocs.getpocket.com
+mitmdetection.services.mozilla.com
